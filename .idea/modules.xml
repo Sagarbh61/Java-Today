@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/08-AccessModifiers/08-AccessModifiers.iml" filepath="$PROJECT_DIR$/OOP_part_1/08-AccessModifiers/08-AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/09-ThisAndFinalKeyword/09-ThisAndFinalKeyword.iml" filepath="$PROJECT_DIR$/OOP_part_1/09-ThisAndFinalKeyword/09-ThisAndFinalKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/OOP_part_1/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/OOP_part_1/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_2/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/OOP_part_2/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Java Methods/Java Methods.iml" filepath="$PROJECT_DIR$/OOP_part_1/Java Methods/Java Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaToday.iml" filepath="$PROJECT_DIR$/JavaToday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/OOP_part_1/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/OOP_part_1.iml" filepath="$PROJECT_DIR$/OOP_part_1/OOP_part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_2/OOP_part_2.iml" filepath="$PROJECT_DIR$/OOP_part_2/OOP_part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/OOP_part_1/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Static/Static.iml" filepath="$PROJECT_DIR$/OOP_part_1/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Strings/Strings.iml" filepath="$PROJECT_DIR$/OOP_part_1/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_1/StringsExtra/StringsExtra.iml" filepath="$PROJECT_DIR$/OOP_part_1/StringsExtra/StringsExtra.iml" />
     </modules>
   </component>
 </project>

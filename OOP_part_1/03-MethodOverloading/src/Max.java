@@ -16,5 +16,5 @@ class Max{
 }
 /*
 Note:
-1)Method overloading to find the maximum of two or three numbers. 
+1)Method overloading to find the maximum of two or three numbers.
  */
