@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Java Methods/Java Methods.iml" filepath="$PROJECT_DIR$/OOP_part_1/Java Methods/Java Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaToday.iml" filepath="$PROJECT_DIR$/JavaToday.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/OOP_part_1/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_2/MethodOverriding/MethodOverriding.iml" filepath="$PROJECT_DIR$/OOP_part_2/MethodOverriding/MethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_2/MiniBankingSystemProject/MiniBankingSystemProject.iml" filepath="$PROJECT_DIR$/OOP_part_2/MiniBankingSystemProject/MiniBankingSystemProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/OOP_part_1.iml" filepath="$PROJECT_DIR$/OOP_part_1/OOP_part_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_2/OOP_part_2.iml" filepath="$PROJECT_DIR$/OOP_part_2/OOP_part_2.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Static/Static.iml" filepath="$PROJECT_DIR$/OOP_part_1/Static/Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/Strings/Strings.iml" filepath="$PROJECT_DIR$/OOP_part_1/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_part_1/StringsExtra/StringsExtra.iml" filepath="$PROJECT_DIR$/OOP_part_1/StringsExtra/StringsExtra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_part_2/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/OOP_part_2/SuperKeyword/SuperKeyword.iml" />
     </modules>
   </component>
 </project>
