@@ -1,7 +1,7 @@
 // A book class demonstrating read only
 
 public class Book {
-    private final String bookName;
+    private String bookName;
 
     public Book(String bookName)
     {
